@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sysdig Application Test Automation Test Suite" duration-ms="8399" started-at="2021-03-01T22:55:33Z" finished-at="2021-03-01T22:55:41Z">
+    <groups>
+    </groups>
+    <test name="Sysdig App Test Cases" duration-ms="8399" started-at="2021-03-01T22:55:33Z" finished-at="2021-03-01T22:55:41Z">
+      <class name="com.sysdig.qa.testcases.RegistrationPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.sysdig.qa.testcases.RegistrationPageTest@548e7350]" name="setup" is-config="true" duration-ms="6005" started-at="2021-03-01T22:55:33Z" finished-at="2021-03-01T22:55:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:com.sysdig.qa.testcases.RegistrationPageTest@548e7350]" name="loginPageTitleTest" duration-ms="1498" started-at="2021-03-01T22:55:39Z" finished-at="2021-03-01T22:55:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sysdig.qa.testcases.RegistrationPageTest@548e7350]" name="tearDown" is-config="true" duration-ms="861" started-at="2021-03-01T22:55:40Z" finished-at="2021-03-01T22:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sysdig.qa.testcases.RegistrationPageTest -->
+    </test> <!-- Sysdig App Test Cases -->
+  </suite> <!-- Sysdig Application Test Automation Test Suite -->
+</testng-results>
